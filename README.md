@@ -1,4 +1,4 @@
-# basic-discord-music-bot
+# SAMPLE DISCORD MUSIC BOT 
 A basic script to use Youtube music with discord.js (only Youtube)
 
 (script based on https://www.gabrieltanner.org/blog/dicord-music-bot )
@@ -17,7 +17,6 @@ A basic script to use Youtube music with discord.js (only Youtube)
 - here we go, free music :)
 
 ## Commands
-
 Basic script means basic commands, so
 - `play <Youtube URL>`
 - `skip`
